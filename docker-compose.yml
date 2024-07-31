@@ -2,7 +2,8 @@ services:
   hugo:
     image: hugomods/hugo:0.130.0
     container_name: hireme.${DOMAIN}
-    command: server
+    # specify liveReloadPort 443 to fix problems with websockets & reverse proxy
+    command: server --liveReloadPort 443
     ports: ["1313:1313"]
     volumes:
       - ./src:/src
