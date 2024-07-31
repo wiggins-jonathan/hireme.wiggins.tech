@@ -1,0 +1,26 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+skills:
+  - name: Virtualization & Containerization
+    summary: AWS, Docker, Kubernetes, VirtualBox, VMware, Proxmox
+
+  - name: CI/CD
+    summary: Terraform, Packer, Ansible, Gitlab Pipelines, Puppet, Jenkins
+
+  - name: Coding Languages
+    summary: Go, Javascript, Python, Java, Bash, Lua, Perl, Nix
+
+  - name: Coding Frameworks
+    summary: React, Svelte, JQuery, Flask, Django, Spring Boot,
+    url: "https://spring.io/projects/spring-boot"
+
+  - name: Data Analysis & Visualization
+    summary: Numpy, Pandas, Matplotlib, Grafana/Prometheus, Google Analytics
+
+  - name: Human Languages
+    summary: English & Spanish

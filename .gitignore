@@ -1,0 +1,7 @@
+src/public/
+cache/
+src/node_modules/
+src/.hugo_build.lock
+src/assets/jsconfig.json
+src/package.hugo.json
+src/resources/

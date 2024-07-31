@@ -1,0 +1,6 @@
+#section:
+#  name: About
+#  id: about
+#  enable: true
+#  weight: 0
+#  showOnNavbar: true

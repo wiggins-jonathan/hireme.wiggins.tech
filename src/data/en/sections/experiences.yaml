@@ -1,0 +1,83 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: HCLTech
+    url: "https://hcltech.com"
+    location: Remote
+    overview: A Multinational consulting company specializing in IT.
+  positions:
+    - designation: Tech Manager
+      start: Mar. 2022
+      responsibilities:
+        - Responsible for setting the strategic direction for the team &
+          ensuring alignment with broader organizational goals. This includes
+          identifying opportunities for leveraging cloud technologies,
+          optimizing DevOps practices, & enhancing web application performance
+          & security.
+        - Managing day-to-day operations & fostering a culture of continuous
+          learning & improvement. Focus on developing the skills of team
+          members, encouraging innovation, & promoting collaboration across
+          departments.
+        - Ensuring quality & reliability of cloud deployments, DevOps processes,
+          & overall code quality.
+        - Involved with troubleshooting & resolving critical issues that impact
+          global business operations.
+- company:
+    name: State Farm
+    url: "https://statefarm.com"
+    location: Tempe, AZ & Remote
+    overview: The largest property & auto insurance provider in the U.S.
+  positions:
+    - designation: Lead Software Engineer
+      start: Sep. 2018
+      end: Mar. 2022
+      responsibilities:
+        - Lead the State Farm IaaS Cloud Solutions team in charge of building &
+          maintaining custom solutions which automate & orchestrate complex
+          tasks & infrastructure for internal business partners.
+        - Use multiple programming languages, frameworks, & APIs to automate the
+          creation, destruction, maintenance & upgrade of cloud-based servers,
+          containers, virtualised systems, & programs.
+        - The team routinely saves the company more than $30MM every year
+          through automation & cloud infrastructure creation.
+        - Developed an application that backs up entire legacy Pivotal Cloud
+          Foundry foundations for upgrade & data continuity purposes.
+        - Lead development of a proof-of-concept program that moves Java Spring
+          Boot apps from on-prem to AWS EC2 or ECS Fargate with no source code
+          changes. This codebase was then adopted by the entire company as an
+          upgrade path for legacy applications to get to the cloud.
+        - Lead the modernization of a monolithic self-hosted web app from jquery
+          & Perl to microservices in the cloud using AWS, Terraform, React & Go.
+        - Part of the Campus Recruit Team that recruits, interviews, & onboards
+          interns from all three major AZ universities.
+
+- company:
+    name: Ascend Learning
+    url: "https://ascendlearning.com"
+    location: Scottsdale, AZ
+    overview: Online insurance & securities school using a web-based,
+      [MooC](https://en.wikipedia.org/wiki/Massive_open_online_course) format.
+  positions:
+    - designation: DevOps Engineer
+      start: 2014
+      end: 2017
+      responsibilities:
+        - Helped design & maintain a PaaS online insurance & securities school
+          using Javascript, Python, PostgreSQL, Docker, AWS, BrainTree & FedEx
+          APIs that produced $20MM in revenue for 2016.
+        - Produced custom interactive web dashboards for management using
+          HTML/CSS, Flask, PostgreSQL, & Docker.
+        - Tracked & analyzed call flows, ab&on rates, & service levels in a
+          call center environment.
+        - Created & maintained a kanban-based inventory & shipping system for
+          the Shipping team.
+        - Implemented eventing, logging, & visualization using
+          Grafana/Prometheus to determine service-level indicators (SLIs).
+        - Won 2 “Employee of the Month” awards in 2016. First employee to do so
+          in a single year.

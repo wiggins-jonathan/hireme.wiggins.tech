@@ -1,0 +1,13 @@
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+degrees:
+  - name: Bachelor's degree in Neuropsychology & Bioarchaelogy
+    timeframe: 2007-2011
+    institution:
+      name: Arizona State University
+      url: "https://asu.edu"

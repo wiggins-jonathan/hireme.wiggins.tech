@@ -1,0 +1,10 @@
+services:
+  hugo:
+    image: hugomods/hugo:0.130.0
+    container_name: hireme.${DOMAIN}
+    command: server
+    ports: ["1313:1313"]
+    volumes:
+      - ./src:/src
+      - ./cache:/tmp/hugo_cache
+    restart: unless-stopped

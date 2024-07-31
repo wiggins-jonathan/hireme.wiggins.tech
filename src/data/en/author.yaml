@@ -1,0 +1,14 @@
+name: Jonathan Wiggins
+nickname: Jonathan
+greeting: Hi, I'm
+image: "images/avatar.png"
+contactInfo:
+  email: "jonathan@wiggins.tech"
+  github: wiggins-jonathan
+  linkedin: jonathan-wiggins-19413a57
+
+summary:
+  - Software Engineering
+  - DevOps
+  - Site Reliability
+  - Automation Orchestration
