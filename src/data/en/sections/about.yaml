@@ -5,6 +5,14 @@ section:
   weight: 0
   showOnNavbar: true
 
+designation: Senior Software Engineer
+summary: 'I am a passionate software engineer with extensive experience in
+  DevOps & site reliability engineering. I have managed teams, implemented cloud
+  technologies, & optimized DevOps practices. Throughout my career, I have
+  demonstrated expertise in various programming languages, frameworks, & tools,
+  while also contributing to significant cost savings & innovative projects in
+  the tech, finanace, & insurance industries.'
+
 socialLinks:
   - name: Email
     icon: fas fa-envelope
