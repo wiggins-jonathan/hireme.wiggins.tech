@@ -1,6 +1,19 @@
-#section:
-#  name: About
-#  id: about
-#  enable: true
-#  weight: 0
-#  showOnNavbar: true
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 0
+  showOnNavbar: true
+
+socialLinks:
+  - name: Email
+    icon: fas fa-envelope
+    url: "jonathan@wiggins.tech"
+
+  - name: Github
+    icon: fab fa-github
+    url: "https://github.com/wiggins-jonathan"
+
+resourceLinks:
+  - title: Résumé
+    url: files/wiggins-jonathan.pdf
